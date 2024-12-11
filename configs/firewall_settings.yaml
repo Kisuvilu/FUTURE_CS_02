@@ -1,0 +1,6 @@
+firewall:
+  enabled: true
+  default_policy:
+    inbound: deny
+    outbound: allow
+logging: on
