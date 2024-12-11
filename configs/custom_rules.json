@@ -1,0 +1,8 @@
+[
+    {
+        "action": "deny",
+        "port": 23,
+        "protocol": "tcp",
+        "description": "Block Telnet"
+    }
+]
